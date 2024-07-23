@@ -4,7 +4,9 @@
   <img src="https://cdn.mos.cms.futurecdn.net/wX86WNfZwLGLqhRapYsX9D-1200-80.gif" alt="Spaceship" width="600" height="300">
 </p>
 
-Welcome to my GitHub mission control! I'm Kristi Shqau, a Junior Software Developer from Tirana, Albania, navigating the vast universe of coding and technology, while focusing on software development and data science to drive innovation and growth.
+🚀Welcome to my GitHub mission control! I'm Kristi Shqau, a Junior Software Developer from Tirana, Albania, navigating the vast universe of coding and technology, while focusing on software development and data science to drive innovation and growth.
+
+🚀Explore my work in software development and data science. Feel free to check out my projects, share your feedback, or reach out for potential collaborations. Your insights and suggestions are always welcome!
 
 ---
 
