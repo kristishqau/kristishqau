@@ -54,7 +54,7 @@ Let's connect and collaborate! Reach out to me through the following platforms:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://kristishqau.github.io">
+  <a href="https://kristishqau.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   &nbsp;&nbsp;&nbsp;
