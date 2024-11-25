@@ -1,12 +1,10 @@
-# 👨‍🚀 Mission Control, This Is Kristi:
+# Welcome to My GitHub!
 
 <p align="center">
   <img src="https://cdn.mos.cms.futurecdn.net/wX86WNfZwLGLqhRapYsX9D-1200-80.gif" alt="Spaceship" width="600" height="300">
 </p>
 
-🚀Welcome to my GitHub mission control! I'm Kristi Shqau, a Junior Software Developer from Tirana, Albania, navigating the vast universe of coding and technology, while focusing on software development and data science to drive innovation and growth.
-
-🚀Explore my work and feel free to check out my projects, share your feedback, or reach out for potential collaborations. Your insights and suggestions are always welcome!
+🚀 I’m Kristi Shqau, a Software Developer based in Tirana, Albania, with a passion for building innovative solutions through software development and data science. My focus lies in creating impactful applications, exploring cutting-edge technologies, and driving meaningful innovation.
 
 ---
 
@@ -14,14 +12,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kristishqau&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
 </p>
 
-## 🚀 Current Mission
+## 🚀 About Me
 
-- **Role**: Junior Software Developer
-- **Base**: Raiffeisen Bank Albania
-- **Focus**: Developing features for banking systems using JavaScript, managing PostgreSQL databases, and creating impactful web applications and APIs.
+- **Current Role**: Software Developer at Raiffeisen Bank Albania
+- **Technical Expertise**: Specializing in C#, .NET, ASP.NET,Web API development, Python, JS, React etc.
+- **Interests**: Data science, machine learning, and full-stack development.
+- **Vision**: To merge my technical skills and data-driven insights to create transformative solutions
 
-## 🛠️ Technologies & Tools
+## 🛠️ My Toolkit
 
+Here are the technologies and tools I work with regularly:
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&logo=dot-net" alt=".NET">
@@ -39,11 +39,11 @@
 
 ## 🌌 Exploring Data Science
 
-Passionate about data science, I love applying NLP and machine learning techniques to solve real-world problems. My projects often involve innovative approaches to data analysis and model development.
+I am passionate about the intersection of data science and software engineering. From NLP projects to building machine learning models, I enjoy leveraging data to solve complex problems and unlock new opportunities.
 
 ## 📫 Contact
 
-Let's connect and collaborate! Reach out to me through the following platforms:
+Feel free to reach out if you’d like to collaborate, share feedback, or discuss innovative ideas.
 
 <p align="center">
   <a href="https://linkedin.com/in/kristi-shqau">
@@ -55,7 +55,7 @@ Let's connect and collaborate! Reach out to me through the following platforms:
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://kristishqau.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:shqaukristi4@gmail.com">
@@ -63,12 +63,19 @@ Let's connect and collaborate! Reach out to me through the following platforms:
   </a>
 </p>
 
----
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/894/89434.gif" alt="Spaceship" width="600" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=kristishqau&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kristishqau&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%">
 </p>
 
 <p align="center">
-  <strong style="font-size: 1.5em;">Ready for liftoff? 🚀</strong>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristishqau&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
+---
+
+<p align="center">
+  <strong style="font-size: 1.5em;">Ready to build something amazing? Let’s create solutions that matter 🚀</strong>
 </p>
