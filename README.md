@@ -8,7 +8,7 @@
 
 🚀 My focus lies in creating impactful applications, exploring cutting-edge technologies, and driving meaningful innovation.
 
-## 🚀 About Me
+## 📰 About Me
 
 - **Current Role**: Software Developer at Raiffeisen Bank Albania
 - **Technical Expertise**: Specializing in C#, .NET, ASP.NET,Web API development, Python, JS, React etc.
