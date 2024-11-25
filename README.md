@@ -8,8 +8,6 @@
 
 🚀 My focus lies in creating impactful applications, exploring cutting-edge technologies, and driving meaningful innovation.
 
----
-
 ## 🚀 About Me
 
 - **Current Role**: Software Developer at Raiffeisen Bank Albania
