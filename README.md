@@ -4,7 +4,7 @@ I’m a Software Developer based in Albania, with a passion for building innovat
 
 ## 📰 About Me
 
-- **Current Role**: Software Developer at Raiffeisen Bank Albania
+- **Current Role**: Software Developer
 - **Technical Expertise**: Specializing in C#, .NET, ASP.NET,Web API development, Python, JS, React etc.
 - **Interests**: Data science, machine learning, and full-stack development.
 - **Vision**: To merge my technical skills and data-driven insights to create transformative solutions
@@ -61,8 +61,4 @@ Feel free to reach out if you’d like to collaborate, share feedback, or discus
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kristishqau&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://cdn.mos.cms.futurecdn.net/wX86WNfZwLGLqhRapYsX9D-1200-80.gif" alt="Spaceship" width="600" height="300">
 </p>
