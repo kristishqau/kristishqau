@@ -1,12 +1,6 @@
 # Welcome to My GitHub!
 
-<p align="center">
-  <img src="https://cdn.mos.cms.futurecdn.net/wX86WNfZwLGLqhRapYsX9D-1200-80.gif" alt="Spaceship" width="600" height="300">
-</p>
-
-🚀 I’m Kristi, a Software Developer based in Albania, with a passion for building innovative solutions through software development and data science. 
-
-🚀 My focus lies in creating impactful applications, exploring cutting-edge technologies, and driving meaningful innovation.
+I’m a Software Developer based in Albania, with a passion for building innovative solutions through software development and data science. My focus lies in creating impactful applications, exploring cutting-edge technologies, and driving meaningful innovation.
 
 ## 📰 About Me
 
@@ -70,11 +64,5 @@ Feel free to reach out if you’d like to collaborate, share feedback, or discus
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kristishqau&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
----
-
-<p align="center">
-  <strong style="font-size: 1.5em;">Ready to build something amazing? Let’s create solutions that matter 🚀</strong>
+  <img src="https://cdn.mos.cms.futurecdn.net/wX86WNfZwLGLqhRapYsX9D-1200-80.gif" alt="Spaceship" width="600" height="300">
 </p>
