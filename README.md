@@ -39,7 +39,7 @@ Feel free to reach out if you’d like to collaborate, share feedback, or discus
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://kristishqau.netlify.app/">
+  <a href="https://kristishqau.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio">
   </a>
   &nbsp;&nbsp;&nbsp;
