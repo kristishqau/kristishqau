@@ -18,7 +18,7 @@ I value clear architecture, maintainable code, security, and practical solutions
 
 ### Employee Management Platform
 
-[Backend API](https://github.com/kristishqau/ASP.NET_Web_API) · [Frontend application](https://github.com/kristishqau/Employee-Portal-UI)
+[View repository](https://github.com/kristishqau/ASP.NET_Web_API)
 
 A full-stack employee and project management application with JWT authentication and role-based access. It supports user profiles, projects, task assignment, and administrative workflows through an ASP.NET Core and SQL Server backend with a React and TypeScript frontend.
 
